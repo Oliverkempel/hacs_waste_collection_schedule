@@ -36,7 +36,7 @@ DANISH_MONTHS = [
     "feb",
     "mar",
     "apr",
-    "may",
+    "maj",
     "jun",
     "jul",
     "aug",
